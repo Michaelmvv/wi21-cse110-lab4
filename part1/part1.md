@@ -42,6 +42,6 @@
 ##### Conditionals 
 17. `How are you?` 2 is not equal to 1 (true). 2 is converted to true since it is a nonempty, run that block. skip the else since we found an if to run.
 ##### Loops
-18. See [part1-question18.js](https://github.com/Michaelmvv/wi21-cse110-lab4/blob/main/part1/part1-question18.js)
+18. See [part1-question18.js](part1-question18.js)
 ##### Functions
 19. 
