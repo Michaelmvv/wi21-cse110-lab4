@@ -2,6 +2,7 @@
 #### Debuging
 1. The types where wrong. It was concatonating a string, not adding numbers
 2. I fixed it by parsing the strings to numbers before adding. I added a type to the input, so users could only input numbers.
+ - See the [part3](part3/) folder for screenshots
 
 #### Network Tab
 1. `citylots.json`
