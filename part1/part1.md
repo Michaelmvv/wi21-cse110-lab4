@@ -44,4 +44,6 @@
 ##### Loops
 18. See [part1-question18.js](part1-question18.js)
 ##### Functions
-19. 
+19. I think that it returns an array of (num+2)*2 where for each inex num. [6, 8, 12]
+20. See [part1-question20.js](part1-question20.js)
+21. 1,4,3,2
